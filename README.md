@@ -6,7 +6,7 @@ A repository for reproducing the results presented in the ICDL-2023 submission.
 ## Folder and file descriptions
 + **gamegrid:** this folder contains the images to create the scene for visual processing, and
 + **gameimg:** contains the visual patterns to train associative memory, etc.   
-+ **outputs:** this contains subfolders for the results in .npy format and visualizations in .pnf format.
++ **outputs:** this contains subfolders for the results in .npy format and visualizations in .pdf format.
 + **trainnao.py:** runs the pre-run training
 + **Naoexpgrids.py:** runs the experiments and contains the specifications for the experimental runs and safes all required outputs
 + **hopfieldnetwork.py:** contains the implementation of the auto-associative memory module
